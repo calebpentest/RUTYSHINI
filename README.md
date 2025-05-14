@@ -32,18 +32,6 @@ Use the interactive CLI to:
 
 ---
 
-Vault Storage
-
-```
-~/.rutyshinigamii/
-├── master.key        # Encryption key
-├── salt.key          # Salt for hashing
-├── vault.enc         # Encrypted credentials
-├── rutyshinigamii.log  # Operation logs
-```
-
----
-
 Security Tips
 
 * **Don't forget your master password** as it unlocks everything.
