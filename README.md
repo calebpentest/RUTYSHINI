@@ -9,7 +9,7 @@ Created by **st34lthv3ct3r**
 
 ```bash
 git clone https://github.com/calebpentest/RUTYSHINIGAMI.git
-cd RUTYSHINIGAMI
+cd RUTYSHINI
 pip install -r requirements.txt
 python3 -m venv venv && source venv/bin/activate
 ```
